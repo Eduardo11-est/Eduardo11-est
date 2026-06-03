@@ -67,4 +67,24 @@ Apaixonado por tecnologia e desenvolvimento de software, atuo na criação de ap
 
 ---
 
+### 📊 Estatísticas
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo11-est&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo11-est&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo11-est&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eduardo11-est&theme=tokyonight&utcOffset=-3" />
+
+</div>
+
 ⭐ Seja bem-vindo ao meu perfil! Confira meus repositórios e projetos.
