@@ -101,21 +101,8 @@ Aqui você encontrará projetos que demonstram minhas habilidades em arquitetura
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<div align="center">
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo11-est&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo11-est&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo11-est&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo11-est&theme=tokyonight"/>
-
-</div>
-  <img
-      align="left"
-      alt="Tecnologias"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo11-est&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo11-est&layout=compact&theme=tokyonight)
