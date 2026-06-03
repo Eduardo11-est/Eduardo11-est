@@ -1,108 +1,70 @@
-# Eduardo Oliveira 👨‍💻
+# 👋 Olá, eu sou Eduardo Oliveira
 
-Desenvolvedor Full Stack Web e Aplicações, apaixonado por tecnologia e desenvolvimento de software. Tenho experiência na criação de aplicações escaláveis, APIs REST e sistemas corporativos, atuando tanto no desenvolvimento backend quanto frontend.
+### 💻 Desenvolvedor Full Stack Web e Aplicações
 
-Aqui você encontrará projetos que demonstram minhas habilidades em arquitetura de software, desenvolvimento web, integração de sistemas e boas práticas de programação.
+Apaixonado por tecnologia e desenvolvimento de software, atuo na criação de aplicações web, APIs REST e sistemas corporativos utilizando tecnologias Microsoft e JavaScript.
+
+🚀 Sempre buscando evoluir tecnicamente e construir soluções escaláveis, performáticas e de alta qualidade.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+## 🚀 Tecnologias
 
-<img
-    align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-/>
+### Backend
 
-<img
-    align="left"
-    alt=".NET"
-    title=".NET"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-/>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-<img
-    align="left"
-    alt="Angular"
-    title="Angular"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-/>
+### Frontend
 
-<img
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-/>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img
-    align="left"
-    alt="Node.js"
-    title="Node.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-/>
+### Banco de Dados
 
-<img
-    align="left"
-    alt="SQL Server"
-    title="SQL Server"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-/>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-FF6B00?style=for-the-badge)
 
-<img
-    align="left"
-    alt="Oracle"
-    title="Oracle PL/SQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-/>
+---
 
-<img
-    align="left"
-    alt="HTML5"
-    title="HTML5"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>
+## 💼 Áreas de Atuação
 
-<img
-    align="left"
-    alt="CSS3"
-    title="CSS3"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-/>
+✔ Desenvolvimento Full Stack
 
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>
+✔ Desenvolvimento Web
 
-<br/>
-<br/>
+✔ APIs REST
 
-## 📊 Estatísticas
+✔ Sistemas Corporativos
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo11-est&show_icons=true&theme=tokyonight)
+✔ Integração de Sistemas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo11-est&layout=compact&theme=tokyonight)
+✔ SQL Server e Oracle
+
+✔ Arquitetura de Software
+
+---
+
+## 📚 Atualmente Estudando
+
+- Microsserviços
+- Arquitetura de Software
+- Cloud Computing
+- Clean Architecture
+- Boas práticas com .NET e Angular
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](COLE_SEU_LINKEDIN_AQUI)
+
+---
+
+⭐ Seja bem-vindo ao meu perfil! Confira meus repositórios e projetos.
