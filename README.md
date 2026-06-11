@@ -63,28 +63,23 @@ Apaixonado por tecnologia e desenvolvimento de software, atuo na criação de ap
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](COLE_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-oliveira-b478841aa?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo11-est&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo11-est&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eduardo11-est&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eduardo11-est&theme=tokyonight" />
 
 </div>
-
-<br>
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo11-est&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eduardo11-est&theme=tokyonight&utcOffset=-3" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eduardo11-est&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eduardo11-est&theme=tokyonight&utcOffset=-3" />
 
 </div>
-
 ⭐ Seja bem-vindo ao meu perfil! Confira meus repositórios e projetos.
